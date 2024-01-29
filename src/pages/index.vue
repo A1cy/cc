@@ -18,12 +18,12 @@
     </VCard>
 
     <VCard title="Want to integrate JWT? 🔒">
-      <VCardText>We carefully crafted JWT flow so you can implement JWT with ease and with minimum efforts.</VCardText>
-      <VCardText>Please read our  JWT Documentation to get more out of JWT authentication.</VCardText>
+      <VCardText>Google Sheets Data</VCardText>
+      <VCardText>{{ sheetData }}</VCardText>
     </VCard>
     <div>
-    <h1>Google Sheets Data</h1>
-    <pre>{{ sheetData }}</pre>
+    <h1></h1>
+    <pre></pre>
   </div>
   </div>
 </template>
